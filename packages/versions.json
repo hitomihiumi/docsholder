@@ -1,8 +1,9 @@
 {
+  "modules": ["lazycanvas", "lazyanimation"],
   "module": {
     "lazycanvas": [
       "1.3.0-dev.kjlic0y2m15gvn50k796r"
     ],
-    "lazyanimation": {}
+    "lazyanimation": []
   }
 }
