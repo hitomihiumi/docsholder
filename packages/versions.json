@@ -2,6 +2,7 @@
   "modules": ["lazycanvas", "lazyanimation", "2048-game", "discord-cards"],
   "module": {
     "lazycanvas": [
+      "1.4.0-dev.v5tdvp68d7k1orvyi8qdtm",
       "1.4.0-dev.9mjqkhxvaplhfb53u01efk",
       "1.4.0-dev.1ccamxwlbir3itkpsrfl61",
       "1.3.4",
