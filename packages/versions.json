@@ -1,5 +1,5 @@
 {
-  "modules": ["lazycanvas", "lazyanimation", "2048-game", "discord-cards"],
+  "modules": ["lazycanvas", "lazyanimation", "2048-game", "discord-cards", "filewatcher"],
   "versions": {
     "lazycanvas": [
       "1.5.1",
@@ -19,6 +19,9 @@
     "discord-cards": [
       "1.0.1",
       "1.0.0"
+    ],
+    "filewatcher": [
+      "0.1.0"
     ]
   }
 }
